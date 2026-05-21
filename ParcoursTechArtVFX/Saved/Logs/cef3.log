@@ -1,25 +1,13 @@
-[17564:3792:0518/091832.283:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17564:25872:0518/091832.395:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[17564:3792:0518/091832.410:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17564:3792:0518/091844.572:ERROR:device_event_log_impl.cc(196)] [09:18:44.546] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[30488:34092:0518/091845.172:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6749B1F6EEF58E70206115F66A80C8FE will be ignored
-[17564:17968:0518/091845.339:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,5]
-[17564:3792:0518/091845.435:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[17564:3792:0518/091845.435:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[17564:3792:0518/091845.435:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[17564:3792:0518/091845.435:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[17564:17968:0518/091845.449:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[5624:24184:0518/091849.584:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[5624:24184:0518/091852.601:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[5624:6736:0518/091853.003:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[5624:6736:0518/091853.004:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[5624:6736:0518/091853.005:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[34284:36264:0518/091853.038:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[34284:36264:0518/091853.042:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[34284:36264:0518/091853.042:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[34284:36264:0518/091853.042:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[5624:6736:0518/091853.042:WARNING:stun_port.cc(442)] Port[2a27400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[5624:6736:0518/091853.042:WARNING:stun_port.cc(442)] Port[db2800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[5624:6736:0518/091853.042:WARNING:stun_port.cc(442)] Port[4d78400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[12424:3408:0518/092100.495:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[17564:3792:0518/115834.306:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25908:38172:0521/084449.011:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25908:38172:0521/084449.064:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clé non valide pour l’utilisation dans l’état spécifié. (0x8009000B)
+[25908:36332:0521/084449.087:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25908:38172:0521/084449.189:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25908:12028:0521/084453.481:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\manon\Documents\Github\ParcoursTechArtVFX\ParcoursTechArtVFX\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\manon\Documents\Github\ParcoursTechArtVFX\ParcoursTechArtVFX\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25908:12028:0521/084453.491:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\manon\Documents\Github\ParcoursTechArtVFX\ParcoursTechArtVFX\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\manon\Documents\Github\ParcoursTechArtVFX\ParcoursTechArtVFX\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25908:12028:0521/084453.494:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\manon\Documents\Github\ParcoursTechArtVFX\ParcoursTechArtVFX\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\manon\Documents\Github\ParcoursTechArtVFX\ParcoursTechArtVFX\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25908:12028:0521/084453.498:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\manon\Documents\Github\ParcoursTechArtVFX\ParcoursTechArtVFX\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\manon\Documents\Github\ParcoursTechArtVFX\ParcoursTechArtVFX\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25908:38800:0521/084454.080:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25908:38800:0521/084454.083:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25908:38172:0521/084454.302:ERROR:device_event_log_impl.cc(196)] [08:44:54.245] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[7400:32572:0521/084454.303:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F526703C7C872CDF2B3ED3CABF64B6B9 will be ignored
+[25908:38172:0521/084836.093:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

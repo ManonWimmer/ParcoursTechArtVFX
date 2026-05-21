@@ -1,0 +1,9 @@
+[11848:23916:0520/085646.847:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11848:23916:0520/085647.086:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11848:23916:0520/085652.759:ERROR:device_event_log_impl.cc(196)] [08:56:52.437] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[24688:25544:0520/085654.506:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-51B67D552FD042432713FF4B7F88D112 will be ignored
+[11848:25484:0520/085657.927:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11848:25484:0520/103256.174:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11848:23916:0520/103908.077:ERROR:device_event_log_impl.cc(196)] [10:39:07.792] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[11848:23916:0520/105325.506:ERROR:device_event_log_impl.cc(196)] [10:53:25.440] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[11848:23916:0520/114427.191:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
