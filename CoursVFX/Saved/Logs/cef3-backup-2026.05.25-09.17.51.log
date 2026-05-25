@@ -1,0 +1,14 @@
+[36472:36748:0525/103117.765:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36472:28084:0525/103117.797:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36472:36748:0525/103117.824:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18236:19844:0525/103121.212:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[12904:33936:0525/103122.310:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9F55FC93D06CD3B68BC71F51C88290E6 will be ignored
+[18236:19844:0525/103122.316:ERROR:backend_impl.cc(989)] Critical error found -8
+[18236:19844:0525/103122.318:ERROR:entry_impl.cc(1029)] No file for c103006e
+[18236:19844:0525/103122.319:WARNING:storage_block-inl.h(138)] Failed data load.
+[36472:36748:0525/103127.310:ERROR:device_event_log_impl.cc(196)] [10:31:26.979] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36472:36748:0525/103127.316:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 1.
+[36472:36748:0525/103127.316:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 2.
+[36472:36748:0525/103127.318:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 3, got 1.
+[36472:36748:0525/103127.318:ERROR:device_event_log_impl.cc(196)] [10:31:27.317] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0b95&pid_1790#009f0f20#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[36472:36748:0525/111751.676:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

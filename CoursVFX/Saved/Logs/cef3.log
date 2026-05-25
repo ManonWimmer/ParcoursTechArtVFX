@@ -1,10 +1,10 @@
-[35256:28408:0522/093957.558:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35256:2808:0522/093957.604:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[35256:28408:0522/093957.622:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29772:4600:0522/094001.681:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8FE143F2ECD5A82AAC0AA4C46AED7D13 will be ignored
-[35256:28408:0522/094007.341:ERROR:device_event_log_impl.cc(196)] [09:40:07.012] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[35256:28408:0522/094007.346:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 1.
-[35256:28408:0522/094007.346:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 2.
-[35256:28408:0522/094007.347:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 3, got 1.
-[35256:28408:0522/094007.347:ERROR:device_event_log_impl.cc(196)] [09:40:07.347] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0b95&pid_1790#009f0f20#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[35256:28408:0522/115959.217:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[8408:19768:0525/132425.937:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8408:29092:0525/132425.978:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8408:19768:0525/132425.997:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7116:2256:0525/132430.081:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C52EB91137267982BFE5A9945B143891 will be ignored
+[8408:19768:0525/132435.083:ERROR:device_event_log_impl.cc(196)] [13:24:35.082] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8408:19768:0525/132435.086:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 1.
+[8408:19768:0525/132435.086:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 2.
+[8408:19768:0525/132435.086:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 3, got 1.
+[8408:19768:0525/132435.086:ERROR:device_event_log_impl.cc(196)] [13:24:35.086] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0b95&pid_1790#009f0f20#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[8408:19768:0525/135400.671:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
